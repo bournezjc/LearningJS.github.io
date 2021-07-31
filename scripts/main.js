@@ -5,11 +5,11 @@
   const FRAME_RATE = 60
   const PARTICLE_NUM = 2000
   const RADIUS = Math.PI * 2
-  const CANVASWIDTH = 500
+  const CANVASWIDTH = 800
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['My Piggy', 'LOOK UP AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING AT THE', 'SAME STAR', 'WITH ME ?', 'YOU ARE DEFINITELY', 'THE MOST CUTE PIGGY',  'IN THE WORLD', 'I MISS YOU']
+  let texts = ['My PIGGY LI', 'LOOK UP AT THE', 'STARRY SKY', 'ARE YOU', 'LOOKING AT THE', 'SAME STAR', 'WITH ME ?', 'YOU ARE DEFINITELY', 'THE CUTEST PIGGY',  'IN THE WORLD', 'I LOVE YOU']
 
   let canvas,
     ctx,
